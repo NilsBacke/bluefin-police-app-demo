@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.0b2b2895.chunk.js",
-    "main.js.map": "/static/js/main.0b2b2895.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.af2964d5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.af2964d5.js.map",
-    "static/js/2.1a4c08a5.chunk.js": "/static/js/2.1a4c08a5.chunk.js",
-    "static/js/2.1a4c08a5.chunk.js.map": "/static/js/2.1a4c08a5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6beb0ad6ad392656df2afe9466423c3a.js": "/precache-manifest.6beb0ad6ad392656df2afe9466423c3a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1a4c08a5.chunk.js.LICENSE.txt": "/static/js/2.1a4c08a5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/bluefin-police-app-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bluefin-police-app-demo/static/js/main.79de0f90.chunk.js",
+    "main.js.map": "/bluefin-police-app-demo/static/js/main.79de0f90.chunk.js.map",
+    "runtime-main.js": "/bluefin-police-app-demo/static/js/runtime-main.13cabd7a.js",
+    "runtime-main.js.map": "/bluefin-police-app-demo/static/js/runtime-main.13cabd7a.js.map",
+    "static/js/2.479bb5cd.chunk.js": "/bluefin-police-app-demo/static/js/2.479bb5cd.chunk.js",
+    "static/js/2.479bb5cd.chunk.js.map": "/bluefin-police-app-demo/static/js/2.479bb5cd.chunk.js.map",
+    "index.html": "/bluefin-police-app-demo/index.html",
+    "precache-manifest.93acfd3b0e22d44a2272ecd10bc091d7.js": "/bluefin-police-app-demo/precache-manifest.93acfd3b0e22d44a2272ecd10bc091d7.js",
+    "service-worker.js": "/bluefin-police-app-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bluefin-police-app-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.479bb5cd.chunk.js.LICENSE.txt": "/bluefin-police-app-demo/static/js/2.479bb5cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.af2964d5.js",
-    "static/js/2.1a4c08a5.chunk.js",
+    "static/js/runtime-main.13cabd7a.js",
+    "static/js/2.479bb5cd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0b2b2895.chunk.js"
+    "static/js/main.79de0f90.chunk.js"
   ]
 }
