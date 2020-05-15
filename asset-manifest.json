@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bluefin-police-app-demo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bluefin-police-app-demo/static/js/main.5e5d01b6.chunk.js",
-    "main.js.map": "/bluefin-police-app-demo/static/js/main.5e5d01b6.chunk.js.map",
+    "main.js": "/bluefin-police-app-demo/static/js/main.94e3bec5.chunk.js",
+    "main.js.map": "/bluefin-police-app-demo/static/js/main.94e3bec5.chunk.js.map",
     "runtime-main.js": "/bluefin-police-app-demo/static/js/runtime-main.13cabd7a.js",
     "runtime-main.js.map": "/bluefin-police-app-demo/static/js/runtime-main.13cabd7a.js.map",
     "static/js/2.df0b6313.chunk.js": "/bluefin-police-app-demo/static/js/2.df0b6313.chunk.js",
     "static/js/2.df0b6313.chunk.js.map": "/bluefin-police-app-demo/static/js/2.df0b6313.chunk.js.map",
     "index.html": "/bluefin-police-app-demo/index.html",
-    "precache-manifest.8f2d2cb6937e4a4442d0c23e166dc0d0.js": "/bluefin-police-app-demo/precache-manifest.8f2d2cb6937e4a4442d0c23e166dc0d0.js",
+    "precache-manifest.39730308ba02f9a7af6796cd0138b569.js": "/bluefin-police-app-demo/precache-manifest.39730308ba02f9a7af6796cd0138b569.js",
     "service-worker.js": "/bluefin-police-app-demo/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/bluefin-police-app-demo/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.df0b6313.chunk.js.LICENSE.txt": "/bluefin-police-app-demo/static/js/2.df0b6313.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.13cabd7a.js",
     "static/js/2.df0b6313.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5e5d01b6.chunk.js"
+    "static/js/main.94e3bec5.chunk.js"
   ]
 }

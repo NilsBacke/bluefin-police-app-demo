@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bluefin-police-app-demo/precache-manifest.8f2d2cb6937e4a4442d0c23e166dc0d0.js"
+  "/bluefin-police-app-demo/precache-manifest.39730308ba02f9a7af6796cd0138b569.js"
 );
 
 self.addEventListener('message', (event) => {
