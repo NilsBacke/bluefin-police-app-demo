@@ -7,9 +7,11 @@ export function fuzzyMatch(text, individualWords, opts) {
     isCaseSensitive: false,
     keys: ['Desc'],
     MAX_DELTA: 0.25,
-    location: 25,
+    location: 0,
     threshold: 0.6,
     distance: 100,
+    minMatchCharLength: 3,
+    useExtendedSearch: true,
     ...opts,
   };
 

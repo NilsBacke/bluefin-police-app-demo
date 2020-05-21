@@ -7,7 +7,7 @@ export default class App extends React.Component {
   state = {
     text: '',
     maxDelta: '0.25',
-    location: '25',
+    location: '0',
     threshold: '0.6',
     distance: '100',
     individualWords: true,
