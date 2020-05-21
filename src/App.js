@@ -10,7 +10,6 @@ export default class App extends React.Component {
     location: '25',
     threshold: '0.6',
     distance: '100',
-    individualWords: true,
     results: [],
   }
 
@@ -39,7 +38,7 @@ export default class App extends React.Component {
   }
 
   search() {
-    const results = fuzzyMatch(this.state.text, this.state.individualWords, {
+    const results = fuzzyMatch(this.state.text, {
       MAX_DELTA: Number(this.state.maxDelta),
       location: Number(this.state.location),
       threshold: Number(this.state.threshold),
@@ -50,13 +49,15 @@ export default class App extends React.Component {
 
   renderResults() {
     return this.state.results.map((res, i) => {
-      const r = res.item;
+      // const r = res.item;
+      const r = res;
       return <div style={{ marginVertical: 16 }}>
         <h4>{r.Chapter}:{r.Section} {r.Desc}</h4>
         <p>1st Off: {r["1ST Of."]}</p>
         <p>2nd Off: {r["2ND Of."]}</p>
         <p>3rd Off: {r["3RD Of."]}</p>
-        <p>Percent Match: {Math.round((1 - res.avgScore) * 100 * 100) / 100}%</p>
+        {/* <p>Percent Match: {Math.round((1 - res.score) * 100 * 100) / 100}%</p> */}
+        <p>Percent Match: {Math.round(res.score * 100 * 100) / 100}%</p>
       </div>
     })
   }
@@ -69,7 +70,7 @@ export default class App extends React.Component {
             Query Text:{' '}
             <input type="text" value={this.state.text} onChange={this.handleChange.bind(this)} style={{ width: 300 }} />
           </label>
-          <label style={{ marginLeft: 16 }}>
+          {/* <label style={{ marginLeft: 16 }}>
             Maximum Delta between results:{' '}
             <input type="text" value={this.state.maxDelta} onChange={this.handleDeltaChange.bind(this)} style={{ width: 50 }} />
           </label>
@@ -84,11 +85,7 @@ export default class App extends React.Component {
           <label style={{ marginLeft: 16 }}>
             Distance:{' '}
             <input type="text" value={this.state.distance} onChange={this.handleDistanceChange.bind(this)} style={{ width: 50 }} />
-          </label>
-          <label style={{ marginLeft: 16 }}>
-            Fuzzy match individual words:{' '}
-            <input type="checkbox" checked={this.state.individualWords} onChange={this.handleIndividualWordsChange.bind(this)} />
-          </label>
+          </label> */}
           <button style={{ marginLeft: 16 }} onClick={this.search.bind(this)}>
             Search
           </button>

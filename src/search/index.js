@@ -1,110 +1,107 @@
 import Fuse from 'fuse.js'
 const laws = require('./laws.json')
 
-export function fuzzyMatch(text, individualWords, opts) {
-  const options = {
-    includeScore: true,
-    isCaseSensitive: false,
-    keys: ['Desc'],
-    MAX_DELTA: 0.25,
-    location: 25,
-    threshold: 0.6,
-    distance: 100,
-    ...opts,
-  };
+// export function fuzzyMatch(text, opts) {
+//   const options = {
+//     includeScore: true,
+//     isCaseSensitive: false,
+//     keys: ['Desc'],
+//     MAX_DELTA: 0.25,
+//     location: 25,
+//     threshold: 0.6,
+//     distance: 100,
+//     ...opts,
+//   };
 
-  const fuse = new Fuse(laws, options)
+//   const fuse = new Fuse(laws, options)
 
-  if (!individualWords) {
-    return oldFuzzyMatch(text, fuse, options.MAX_DELTA);
+//   const results = fuse.search(text)
+
+//   if (results.length === 0) {
+//     return results;
+//   }
+
+//   var score1 = 0;
+//   var score2 = 0;
+//   for (var i = 1; i < results.length; i++) {
+//     score1 = results[0].score;
+//     score2 = results[i].score;
+//     let delta = Math.abs(score1 - score2);
+
+//     if (delta > options.MAX_DELTA) {
+//       results.splice(i);
+//       i--;
+//     }
+//   }
+
+//   return results;
+// }
+
+export function fuzzyMatch(text, opts) {
+  const results = [];
+  for (const law of laws) {
+    results.push({
+      ...law,
+      score: fuzzyMatchPhrase(text.toLowerCase().split(' ').sort().join(' '), law.Desc.toLowerCase().split(' ').sort().join(' '))
+    })
   }
 
-  const words = text.split(" ");
-  const cumulativeResults = [];
-  for (const word of words) {
-    const wordResults = fuzzyMatchWord(word, fuse, options.MAX_DELTA)
-    cumulativeResults.push(wordResults)
-  }
-
-  console.log(cumulativeResults)
-
-  const uniqResults = [];
-  for (const oneWordResults of cumulativeResults) {
-    for (const res of oneWordResults) {
-      if (uniqResults.findIndex((r) => res.item.Desc === r.item.Desc) === -1) {
-        uniqResults.push({
-          timesSeen: 0,
-          avgScore: 0,
-          totalScore: 0,
-          ...res,
-        })
-      }
-    }
-  }
-
-  for (const oneWordResults of cumulativeResults) {
-    for (const res of oneWordResults) {
-      const uniqResIndex = uniqResults.findIndex((r) => r.item.Desc === res.item.Desc)
-      uniqResults[uniqResIndex].timesSeen += 1;
-      uniqResults[uniqResIndex].totalScore += res.score;
-    }
-  }
-
-  // calculate averages
-  for (let i = 0; i < uniqResults.length; i++) {
-    if (uniqResults[i].timesSeen < words.length - 1) {
-      uniqResults.splice(i)
-      i--;
-      continue
-    }
-    uniqResults[i].avgScore = uniqResults[i].totalScore / uniqResults[i].timesSeen
-  }
-
-  return uniqResults.sort((a, b) => (a.avgScore > b.avgScore) ? 1 : -1);
+  return results.sort((a, b) => b.score - a.score)
 }
 
-function fuzzyMatchWord(word, fuse, maxDelta) {
-  const results = fuse.search(word)
+export function fuzzyMatchPhrase(strA, strB) {
+  var termFreqA = termFreqMap(strA);
+  var termFreqB = termFreqMap(strB);
 
-  if (results.length === 0) {
-    return results;
-  }
+  var dict = {};
+  addKeysToDict(termFreqA, dict);
+  addKeysToDict(termFreqB, dict);
 
-  var score1 = 0;
-  var score2 = 0;
-  for (var i = 1; i < results.length; i++) {
-    score1 = results[0].score;
-    score2 = results[i].score;
-    let delta = Math.abs(score1 - score2);
+  var termFreqVecA = termFreqMapToVector(termFreqA, dict);
+  var termFreqVecB = termFreqMapToVector(termFreqB, dict);
 
-    if (delta > maxDelta) {
-      results.splice(i);
-      i--;
-    }
-  }
-
-  return results;
+  return cosineSimilarity(termFreqVecA, termFreqVecB);
 }
 
-function oldFuzzyMatch(text, fuse, MAX_DELTA) {
-  const results = fuse.search(text)
+function termFreqMap(str) {
+  var words = str.split(' ');
+  var termFreq = {};
+  words.forEach(function(w) {
+      termFreq[w] = (termFreq[w] || 0) + 1;
+  });
+  return termFreq;
+}
 
-  if (results.length === 0) {
-    return results;
+function addKeysToDict(map, dict) {
+  for (var key in map) {
+      dict[key] = true;
   }
+}
 
-  var score1 = 0;
-  var score2 = 0;
-  for (var i = 1; i < results.length; i++) {
-    score1 = results[0].score;
-    score2 = results[i].score;
-    let delta = Math.abs(score1 - score2);
-
-    if (delta > MAX_DELTA) {
-      results.splice(i);
-      i--;
-    }
+function termFreqMapToVector(map, dict) {
+  var termFreqVector = [];
+  for (var term in dict) {
+      termFreqVector.push(map[term] || 0);
   }
+  return termFreqVector;
+}
 
-  return results;
+function vecDotProduct(vecA, vecB) {
+  var product = 0;
+  for (var i = 0; i < vecA.length; i++) {
+      product += vecA[i] * vecB[i];
+  }
+  return product;
+}
+
+function vecMagnitude(vec) {
+  var sum = 0;
+  for (var i = 0; i < vec.length; i++) {
+      sum += vec[i] * vec[i];
+  }
+  return Math.sqrt(sum);
+}
+
+function cosineSimilarity(vecA, vecB) {
+  return vecDotProduct(vecA, vecB) / (vecMagnitude(vecA) * vecMagnitude(vecB));
 }
