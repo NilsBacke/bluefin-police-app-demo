@@ -1,52 +1,45 @@
-import Fuse from 'fuse.js'
 const laws = require('./laws.json')
 
-// export function fuzzyMatch(text, opts) {
-//   const options = {
-//     includeScore: true,
-//     isCaseSensitive: false,
-//     keys: ['Desc'],
-//     MAX_DELTA: 0.25,
-//     location: 25,
-//     threshold: 0.6,
-//     distance: 100,
-//     ...opts,
-//   };
+function buildKeywords() {
+  const keywords = [
+    ...laws.map((l) => l["Key Word"]),
+    ...laws.map((l) => l["Direct Object"]),
+    ...laws.map((l) => l["Verb"]),
+  ].map((w) => w.toLowerCase());
+  return keywords.filter((item, i) => keywords.indexOf(item) === i)
+}
 
-//   const fuse = new Fuse(laws, options)
-
-//   const results = fuse.search(text)
-
-//   if (results.length === 0) {
-//     return results;
-//   }
-
-//   var score1 = 0;
-//   var score2 = 0;
-//   for (var i = 1; i < results.length; i++) {
-//     score1 = results[0].score;
-//     score2 = results[i].score;
-//     let delta = Math.abs(score1 - score2);
-
-//     if (delta > options.MAX_DELTA) {
-//       results.splice(i);
-//       i--;
-//     }
-//   }
-
-//   return results;
-// }
-
-export function fuzzyMatch(text, opts) {
+export function fuzzyMatch(text) {
   const results = [];
-  for (const law of laws) {
+  const keywords = buildKeywords();
+
+  // check if text contains a keyword
+  const includedKeywords = [];
+  const words = text.split(' ');
+  for (const word of words) {
+    if (keywords.includes(word.toLowerCase())) {
+      includedKeywords.push(word.toLowerCase());
+    }
+  }
+
+  console.log(includedKeywords)
+
+  let lawsToSearch = laws;
+
+  for (const kword of includedKeywords) {
+    lawsToSearch = lawsToSearch.concat(laws.filter((l) => l["Verb"].toLowerCase() === kword.toLowerCase() ||
+      l["Direct Object"].toLowerCase() === kword.toLowerCase() ||
+      l["Key Word"].toLowerCase() === kword.toLowerCase())).filter((item, i) => lawsToSearch.indexOf(item) === i)
+  }
+
+  for (const law of lawsToSearch) {
     results.push({
       ...law,
       score: fuzzyMatchPhrase(text.toLowerCase().split(' ').sort().join(' '), law.Desc.toLowerCase().split(' ').sort().join(' '))
     })
   }
 
-  return results.sort((a, b) => b.score - a.score)
+  return results.filter((a) => a.score !== 0).sort((a, b) => b.score - a.score)
 }
 
 export function fuzzyMatchPhrase(strA, strB) {
@@ -66,22 +59,22 @@ export function fuzzyMatchPhrase(strA, strB) {
 function termFreqMap(str) {
   var words = str.split(' ');
   var termFreq = {};
-  words.forEach(function(w) {
-      termFreq[w] = (termFreq[w] || 0) + 1;
+  words.forEach(function (w) {
+    termFreq[w] = (termFreq[w] || 0) + 1;
   });
   return termFreq;
 }
 
 function addKeysToDict(map, dict) {
   for (var key in map) {
-      dict[key] = true;
+    dict[key] = true;
   }
 }
 
 function termFreqMapToVector(map, dict) {
   var termFreqVector = [];
   for (var term in dict) {
-      termFreqVector.push(map[term] || 0);
+    termFreqVector.push(map[term] || 0);
   }
   return termFreqVector;
 }
@@ -89,7 +82,7 @@ function termFreqMapToVector(map, dict) {
 function vecDotProduct(vecA, vecB) {
   var product = 0;
   for (var i = 0; i < vecA.length; i++) {
-      product += vecA[i] * vecB[i];
+    product += vecA[i] * vecB[i];
   }
   return product;
 }
@@ -97,7 +90,7 @@ function vecDotProduct(vecA, vecB) {
 function vecMagnitude(vec) {
   var sum = 0;
   for (var i = 0; i < vec.length; i++) {
-      sum += vec[i] * vec[i];
+    sum += vec[i] * vec[i];
   }
   return Math.sqrt(sum);
 }

@@ -1,0 +1,4392 @@
+[
+  {
+    "Chapter": "90",
+    "Section": "10",
+    "Desc": "UNLICENSED OPERATION OF MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "10",
+    "Desc": "LICENSE CLASS, OPERATE MV IN VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "10",
+    "Desc": "LICENSE RESTRICTION, OPERATE MV IN VIOL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "10",
+    "Desc": "JUNIOR OPERATOR OP 12:30-5 AM W/O PARENT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "11",
+    "Desc": "LICENSE NOT IN POSSESSION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "11",
+    "Desc": "REGISTRATION NOT IN POSSESSION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "12",
+    "Desc": "ALLOW UNLICENSED TO OPERATE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "M",
+    "2nd Of.": "M",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "12",
+    "Desc": "ALLOW TO OPERATE W/O OUI INTERLOCK WHEN REQUIRED",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "M and $500",
+    "2nd Of.": "M and $1000",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "12/A",
+    "Desc": "UNLICENSED OPERATOR, EMPLOY",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$1,005 ",
+    "2nd Of.": "M",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "12/C",
+    "Desc": "UNLICENSED/SUSPENDED OPERATION OF MV, PERMIT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "M",
+    "2nd Of.": "M",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "12A",
+    "Desc": "USE OF MOBILE ELECTRONIC DEVICE BY PUBLIC TRANSPORT OPERATOR",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$505 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "13",
+    "Desc": "TV VISIBLE TO OPERATOR",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13",
+    "Desc": "UNSAFE OPERATION OF MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13",
+    "Desc": "HANG ONTO MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13",
+    "Desc": "RIDE IN BACK OF TRAILER/SEMI",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13",
+    "Desc": "ALLOW IMPEDED OPERATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13",
+    "Desc": "LEAVING M/V RUNNING UNATTENDED",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13",
+    "Desc": "ALLOW IMPROPER HIRED PERSON TO OPERATE M/V",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13",
+    "Desc": "OPERATE TRUCK NO CHOCK BLOCKS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13A",
+    "Desc": "SEAT BELT, FAIL WEAR",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "13B",
+    "Desc": "ELECTRONIC MESSAGE, OPERATOR SEND/READ *",
+    "FelonyMisdomenor": "C",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "$255 ",
+    "3rd Of.": "$505 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "13B/1",
+    "Desc": "SENDING AND/OR READING TEXT MESSAGE AND/OR EMAIL 1ST OFF",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "$255 ",
+    "3rd Of.": "$505 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "14",
+    "Desc": "SLOW, FAIL TO",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "14",
+    "Desc": "TURN, IMPROPER",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "14",
+    "Desc": "SCHOOL BUS, FAIL STOP FOR",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$255 ",
+    "2nd Of.": "$1,005 ",
+    "3rd Of.": "$2,005 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "14",
+    "Desc": "FAIL USE CAUTION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "14",
+    "Desc": "FAIL YIELD TO PEDESTRIAN",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "14",
+    "Desc": "FAILURE TO KEEP LEFT WHILE MAKING LEFT TURN",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "14/D",
+    "Desc": "SCHOOL BUS, OPERATE WITHIN 100 FT OF",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "14/E",
+    "Desc": "MOTOR VEH DOOR, NEGLIGENTLY OPEN",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "14A",
+    "Desc": "BLIND PEDESTRIAN, FAIL STOP FOR",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$505 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "14B",
+    "Desc": "SIGNAL, FAIL TO",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "15",
+    "Desc": "RAILROAD CROSSING VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$205 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "15",
+    "Desc": "RAILROAD MOTORMAN FAIL SIGNAL",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$205 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "15",
+    "Desc": "RAILROAD CROSSING VIOL W/SCHL BUS/EXPLOSIVES/FLAMM",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$505 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "16",
+    "Desc": "IMPROPER OPERATION OF MOTOR VEHICLE/ONE WAY",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$55 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "16",
+    "Desc": "UNLAWFUL USE SPOT AUXILIARY LIGHT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$55 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "16",
+    "Desc": "OPERATE M/V WITH STUDDED TIRES",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$55 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "16",
+    "Desc": "OPERATE M/V WITH UNNECESSARY SMOKE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$55 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "16",
+    "Desc": "OPERATE M/V WITH UNNECESSARY NOISE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$55 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "16A",
+    "Desc": "IDLE ENGINE OF STOPPED MV OVER 5 MINUTES",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "$255 ",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "17",
+    "Desc": "SPEEDING RATE OF SPEED EXCEEDING POSTED LIMIT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "min. $105+",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "17",
+    "Desc": "SPEEDING SCHOOL BUS OVER 40 MPH c90 §17",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "min. $105+",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "17/C",
+    "Desc": "SPEEDING IN CONSTRUCTION ZONE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "min $210 +",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "17B",
+    "Desc": "RACING MOTOR VEHICLE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "M",
+    "2nd Of.": "M",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "17B/C",
+    "Desc": "RACING MOTOR VEHICLE BY JR OPERATOR/LEARNER",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$505 ",
+    "2nd Of.": "$1,005 ",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "19",
+    "Desc": "OVERSIZE MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "19",
+    "Desc": "TIRE OUTSIDE FENDER",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "19",
+    "Desc": "VIOLATE WIDE LOAD PERMIT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "19",
+    "Desc": "FAIL DISPLAY HEIGHT MARKINGS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "19A",
+    "Desc": "WEIGHT VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "19A",
+    "Desc": "WEIGHED, REFUSAL TO BE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "19K",
+    "Desc": "SNOW PLOW/HITCH, FAIL REMOVE *",
+    "FelonyMisdomenor": "C",
+    "FIELD5": "",
+    "1ST Of.": "$0 ",
+    "2nd Of.": "$255 ",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "1B",
+    "Desc": "MOPED OPERATION BY UNLIC -17",
+    "FelonyMisdomenor": "O",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1B",
+    "Desc": "MOPED VIOLATION",
+    "FelonyMisdomenor": "O",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1B",
+    "Desc": "MOPED, OPERATOR FAILURE TO SIGNAL STOP OR TURN",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1B",
+    "Desc": "moped without a helmet",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1B",
+    "Desc": "MOPED, OPERATING IN EXCESS OF 25 MPH 20-1",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1B",
+    "Desc": "MOPED, OPERATING ON A RESTRICTED WAY",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "MOPED, NO REGISTRATION STICKER, 20-1",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "1B",
+    "Desc": "OPERATE UNREGISTERED MOPED",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "1B",
+    "Desc": "FAIL TO SIGNAL WHEN TURNING",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "MOTORIZED SCOOTER, UNLICENSED OPERATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "FAIL TO OBEY ALL TRAFFIC LAWS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "MOTORIZED SCOOTER, SPEEDING OVER 20 MPH",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "MOTORIZED SCOOTER, FAIL TO KEEP RIGHT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "MOTORIZED SCOOTER, OPERATE AFTER SUNSET, BEFORE SUNRISE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "MOTORIZED SCOOTER, EQUIPMENT, NO TURN SIGNALS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "MOTORIZED SCOOTER, OPERATE W/O HELMET",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1D",
+    "Desc": "MOTORIZED SCOOTER, CARRYING A PASSENGER",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1E",
+    "Desc": "MOTORIZED SCOOTER, OPERATE AFTER SUNSET, BEFORE SUNRISE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1E",
+    "Desc": "MOTORIZED SCOOTER, UNLICENSED OPERATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1E",
+    "Desc": "MOTORIZED SCOOTER, OPERATE W/O HELMET",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1E",
+    "Desc": "MOTORIZED SCOOTER, EQUIPMENT, NO TURN SIGNALS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1E",
+    "Desc": "MOTORIZED SCOOTER, SPEEDING OVER 20 MPH",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "$55 ",
+    "3rd Of.": "$105 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "1F",
+    "Desc": "LOW-SPEED VEHICLE VIOLATION *",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "1G",
+    "Desc": "LOW-SPEED VEHICLE DISCLOSURE NOTICE, FAIL PROVIDE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "2",
+    "Desc": "HANDICAP PARKING PLATE/PLACARD MISUE *",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$505 ",
+    "2nd Of.": "$1,005 ",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "2",
+    "Desc": "HANDICAP PARKING PLATE/PLACARD OBSTRUCTION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$55 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "2",
+    "Desc": "HANDICAP PARKING PLATE/PLACARD FALSE STMT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$505 ",
+    "2nd Of.": "$1,005 ",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "2",
+    "Desc": "HANDICAP PARKING PLATE/PLACARD FAIL TO RETURN",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "20",
+    "Desc": "INSPECTION/STICKER, NO",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "20",
+    "Desc": "OWNER OPERATE M/V WITHOUT INSPECTION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "20",
+    "Desc": "ALLOW OPERATION M/V WITHOUT INSPECTION STICKER",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "20C",
+    "Desc": "PARKING TICKETS, +5 UNPAID",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "20D",
+    "Desc": "PARKING TICKET, MUTILATE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "20E",
+    "Desc": "PARKING TICKET, LESSEE FAIL PAY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "22B",
+    "Desc": "ABANDON MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "22B",
+    "Desc": "ABANDON MV, SUBSQ.OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "22E",
+    "Desc": "ABANDONED MV, VANDALIZE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "22H",
+    "Desc": "ANIMAL, TRANSPORT UNPROTECTED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "LICENSE, EXHIBIT ANOTHER'S",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "LICENSE, EXHIBIT ANOTHER'S, SUBSQ.OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "LICENSE REVOKED AS HTO, OPERATE MV WITH",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "LICENSE SUSPENDED OR REVOKED, OP MV WITH",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "LICENSE SUSPENDED, OP MV WITH, SUBSQ.OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "LICENSE SUSPENDED FOR OUI, OPER MV WITH",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "ILLEGALLY ATTACH PLATES",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "REGISTRATION SUSPENDED/REVOKED, OP MV WITH",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23",
+    "Desc": "REGISTRATION SUSPENDED, OP MV, SUBSQ.OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23/J",
+    "Desc": "LICENSE SUSPENDED FOR OUI, OUI WHILE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23/K",
+    "Desc": "LICENSE SUSPENDED, OP MV WITH (CRIMINAL SUBSQ.OFF.)",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "23/L",
+    "Desc": "LICENSE REVOKED AS HTO, OPERATE MV WITH (CRIMINAL)",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "LEAVE SCENE OF PERSONAL INJURY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "LEAVE SCENE OF PERSONAL INJURY & DEATH",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "LEAVE SCENE OF PROPERTY DAMAGE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "LICENSE, ALLOW ANOTHER TO USE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "NEGLIGENT OPERATION OF MOTOR VEHICLE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI--DRUGS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI--DRUGS, 2ND OFFENSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI--DRUGS, 3RD OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI DRUGS 4TH OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-LIQUOR OR .08%",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-LIQUOR OR .08%, 2ND OFFENSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-LIQUOR OR .08%, 3RD OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-LIQUOR OR .08%, 4TH OR GREATER OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "RACING MOTOR VEHICLE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "RECKLESS OPERATION OF MOTOR VEHICLE/OPERATING TO ENDANGER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "USE MV WITHOUT AUTHORITY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "USE MV WITHOUT AUTHORITY, 2ND OFF.",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "USE MV WITHOUT AUTHORITY, 3RD OFF.",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "LICENSE, FALSE STATEMENT IN APPLIC FOR",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "REGISTRATION, FALSE STATEMNT IN APPL FOR",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI--DRUGS, 5TH OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI--LIQUOR OR .08%, 5TH OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-LIQUOR OR .08%, 9TH OFFENSE c90 §24(1)(a)(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-DRUGS, 6TH OFFENSE c90 §24(1)(a)(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-DRUGS, 7TH OFFENSE c90 §24(1)(a)(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-DRUGS, 8TH OFFENSE c90 §24(1)(a)(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI-DRUGS, 9TH OFFENSE c90 §24(1)(a)(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "0UI--LIQUOR OR .08%, 6TH OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUI--LIQUOR OR .08%, 7TH OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24",
+    "Desc": "OUR--LIQOUR OR .08%, 8TH OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24/18+ 1",
+    "Desc": "NEGLIGENT OPERATION & INJURY FROM MOBILE PHONE USE, 18+, 1ST OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24/18+ 2",
+    "Desc": "NEGLIGENT OPERATION & INJURY FROM MOBILE PHONE USE, 18+, 2ND OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24/18+ 3",
+    "Desc": "NEGLIGENT OPERATION & INJURY FROM MOBILE PHONE USE, 18+, 3RD OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24/M",
+    "Desc": "OUI-LIQUOR OR .08%, 4th OR GREATER OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24/W",
+    "Desc": "NEGLIGENT OPERATION & INJURY FROM MOBILE PHONE USE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24A",
+    "Desc": "MOTOR VEH IN FELONY/LARCENY, USE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24B",
+    "Desc": "LICENSE, FALSE APPLICATION FOR MV",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24B",
+    "Desc": "RMV DOCUMENT, FORGE/MISUSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24B",
+    "Desc": "RMV SIGNATURE, FORGE/MISUSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24B",
+    "Desc": "RMV DOCUMENT, POSSESS/USE FALSE/STOLEN",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24B",
+    "Desc": "RMV SIGNATURE, POSSESS/USE FALSE/STOLEN",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24B/F",
+    "Desc": "RMV DOCUMENT, FORGE/MISUSE, INTENT TO DISTRIBUTE, FIVE OR FEWER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24B/G",
+    "Desc": "RMV DOCUMENT, FORGE/MISUSE, INTENT TO DISTRIBUTE, SIX TO TEN",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24B/H",
+    "Desc": "RMV DOCUMENT, FORGE/MISUSE, INTENT TO DISTRIBUTE, MORE THAN TEN",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24G",
+    "Desc": "MOTOR VEH HOMICIDE BY NEGLIGENT OP",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24G",
+    "Desc": "MOTOR VEH HOMICIDE OUI--DRUGS & NEGLIG",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24G",
+    "Desc": "MOTOR VEH HOMICIDE OUI--DRUGS & RECKLESS",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24G",
+    "Desc": "MOTOR VEH HOMICIDE OUI-LIQUOR OR .08%",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24G",
+    "Desc": "MOTOR VEH HOMICIDE OUI-LIQUOR OR .08% & NEGLIGENT",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24G",
+    "Desc": "MOTOR VEH HOMICIDE OUI-LIQUOR OR .08% OR RECKLESS",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24H",
+    "Desc": "ABANDONED/STOLEN MV, IMPROP REMOVE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24H",
+    "Desc": "CRUSHING MACHINE, UNREGISTERED MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24H",
+    "Desc": "CRUSHED VEHICLES, TRANSPORT WITHOUT LIST",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24I",
+    "Desc": "ALCOHOL IN MV, POSSESS OPEN CONTAINER OF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24L",
+    "Desc": "OUI-DRUGS & SERIOUS INJURY c90 §24L(2)",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24L",
+    "Desc": "OUI-DRUGS & SERIOUS INJURY & NEGLIGENT c90 §24L(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24L",
+    "Desc": "OUI-DRUGS & SERIOUS INJURY & RECKLESS c90 §24L(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24L",
+    "Desc": "OUI-LIQUOR OR .08% & SERIOUS INJURY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24L",
+    "Desc": "OUI-LIQUOR OR .08% & SERIOUS INJURY & NEGLIGENT",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24L",
+    "Desc": "OUI-LIQUOR OR .08% & SERIOUS INJURY & RECKLESS",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24S",
+    "Desc": "IGNITION, INTERLOCK DEVICE, OPERATE M/V WITHOUT",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24T",
+    "Desc": "IGNITION, INTERLOCK DEVICE, INTERFERE OR TAMPER WITH",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24U",
+    "Desc": "IGNITION INTERLOCK FOR ANOTHER, BYPASS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24U",
+    "Desc": "IGNITION INTERLOCK FOR ANOTHER, BYPASS, SUBSQ. OFF.",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24V",
+    "Desc": "CHILD ENDANGERMENT WHILE OUI",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "24V",
+    "Desc": "CHILD ENDANGERMENT WHILE OUI, SUBSQ.OFF.",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "25",
+    "Desc": "IDENTIFY SELF, MV OPERATOR REFUSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "25",
+    "Desc": "LICENSE/REGIS/PLATES, REFUSE PRODUCE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "25",
+    "Desc": "SIGN NAME, MV OPERATOR REFUSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "25",
+    "Desc": "STOP FOR POLICE, FAIL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "25",
+    "Desc": "LICENSE, REFUSE PRODUCE IN COURT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "25",
+    "Desc": "FAIL DELIVER NUMBER PLATES LICENSE REGISTRATION TO RMV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "26",
+    "Desc": "ACCIDENT REPORT, FAIL FILE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "26A",
+    "Desc": "NAME/ADDRESS CHANGE, FL NOTIFY RMV OF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "2B",
+    "Desc": "REGISTRATION LEFT IN TRANSFERRED MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "3",
+    "Desc": "REGISTER MV OPERATED +30 DAYS YEAR, FL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "3",
+    "Desc": "STUDENT MOTOR VEH REGISTRATION VIOL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "3",
+    "Desc": "STUDENT MOTOR VEHS, COLLEGE FL REGISTER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "312",
+    "Desc": "REGISTER MV IMPROPERLY TO AVOID TAXES/PREMIUMS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32",
+    "Desc": "GARAGE/DEALER NOT KEEP LOG BOOK",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32",
+    "Desc": "GARAGE/DEALER NOT KEEP LOG BOOK, 2ND OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32",
+    "Desc": "GARAGE/DEALER NOT KEEP LOG BOOK, 3RD OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32",
+    "Desc": "LEASE MV COLLISION DAMAGE WAIVER VIOL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32000000000000",
+    "Desc": "LEASE MV COLLISION DAMAGE WAIVER VIOL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32C",
+    "Desc": "LEASE MV TO INTOXICATED DRIVER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32C",
+    "Desc": "LEASE MV WITHOUT SEEING DRIVERS LICENSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32C",
+    "Desc": "LEASE MV LESSEE FAIL RETURN MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32C",
+    "Desc": "LEASE MV LESSEE FALSIFY MILEAGE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32C",
+    "Desc": "LEASE MV LESSOR FALSIFY MILEAGE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32D",
+    "Desc": "LEASE MV LESSOR RECORDKEEPING VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32E",
+    "Desc": "LEASE MV LESSOR FAIL MAINTAIN INSURANCE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32E",
+    "Desc": "LEASE MV LESSEE ALLOW UNAUTH PERSON OP",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32E",
+    "Desc": "LEASE MV LESSEE FAIL ID SELF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32F",
+    "Desc": "LEASE MV OBTAINED BY FRAUD/BAD CHECK",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING SCHOOL EQUIPMENT VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING INSTRUCTOR, UNLICENSED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING INSTRUCTOR, UNLICENSED, 2ND OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING INSTRUCTOR, UNLICENSED, 3RD OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING SCHOOL, UNLICENSED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING SCHOOL, UNLICENSED, 2ND OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING SCHOOL, UNLICENSED, 3RD OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING SCHOOL EMPLOY FELON",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING SCHOOL EMPLOY FELON, 2ND OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32G",
+    "Desc": "DRIVING SCHOOL EMPLOY FELON, 3RD OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "32H",
+    "Desc": "LEASE MOTORCYCLES WITHOUT LICENSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "34B",
+    "Desc": "INSURANCE CERTIFICATE, FALSE MOTOR VEH",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "34B",
+    "Desc": "INSURANCE CERTIFICATE, ISSUE IMPROPER MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "34F",
+    "Desc": "SELF-INSURER FAIL NOTIFY OF SUIT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "34J",
+    "Desc": "UNINSURED MOTOR VEHICLE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "34J",
+    "Desc": "PERMIT OPERATION OF UNINSURED M/V",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "34J",
+    "Desc": "SUBSQ. OFFENSE, ALLOW UNINSURED M/V ON PUBLIC WAY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "34J",
+    "Desc": "TOW UNINSURED M/V",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "35B",
+    "Desc": "AIRPORT RUNWAY, STRUCTURE TOO HIGH NEAR",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "39B",
+    "Desc": "AIRCRAFT OPERATION IN VIOL MUNIC REGUL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "40",
+    "Desc": "AIRCRAFT LICENSE/REGIS NOT IN POSSESSION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "40",
+    "Desc": "AIRCRAFT OPERATION, INTERFERE WITH",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "40",
+    "Desc": "AIRCRAFT, USE WITHOUT AUTHORITY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "40A",
+    "Desc": "AIRPORT APPROACH REGULATIONS, VIOL MUNIC",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "44",
+    "Desc": "AIRCRAFT OUI LIQUOR",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "46",
+    "Desc": "AIRCRAFT OPERATION TOO LOW/TO ENDANGER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "47",
+    "Desc": "AIRCRAFT OPERATION, UNLICENSED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "48",
+    "Desc": "AIRCRAFT, UNLICENSED/UNREGISTERED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "49",
+    "Desc": "AIRCRAFT CERTIFICATE, FAIL REGISTER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "49",
+    "Desc": "AIRCRAFT DEALERS CERTIFIC, FAIL REGISTER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "49",
+    "Desc": "AIRMAN'S CERTIFICATE, FAIL REGISTER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "49N",
+    "Desc": "AIRCRAFT LICENSE, OPERATE WITH SUSPENDED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "49N",
+    "Desc": "AIRCRAFT REGIS, FAIL RETURN SUSPENDED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "5",
+    "Desc": "NUMBER PLATE, FALSE APPLIC FOR DEALER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "51J",
+    "Desc": "AIRPORT MUNICIPAL REGULATIONS VIOL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "5A",
+    "Desc": "NUMBER PLATE, MISUSE MILITARY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "5A",
+    "Desc": "MILITARY MV, USE WITHOUT AUTHORITY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "6",
+    "Desc": "NUMBER PLATE VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "6",
+    "Desc": "PLATES IMPROPERLY ATTACHED",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "6",
+    "Desc": "FAIL KEEP PLATE LEGIBLE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "6",
+    "Desc": "TEMPORARY PLATES NO PERMIT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "6",
+    "Desc": "OBSCURED PLATE NUMBER TRAILER",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "6",
+    "Desc": "OBSCURED PLATE NUMBER",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "BRAKES VIOLATION, MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "HORN VIOLATION, MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "LIGHTS VIOLATION, MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "EQUIPMENT VIOLATION, MISCELLANEOUS MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "MOTORCYCLE EQUIPMENT VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "MOTORCYCLE PASSENGER VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "EQUIPMENT, SELL NONCONFORM MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "PERMIT PASSENGER ON M/C W/O HELMET",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "PERMIT PASSENGER ON M/C W/IMPROPER HELMET",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "FAIL DISPLAY REAR LIGHTS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "OPERATE M/C WITHOUT EYE PROTECTION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "OPERATE M/C W/O HELMET",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7",
+    "Desc": "OPERATE M/C WITHOUT SUITABLE GUARD",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "$90 ",
+    "Section": "7A",
+    "Desc": "OPERATE M/V FAIL MEET SAFETY",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7A",
+    "Desc": "ALLOW OPERATE UNINSPECTED M/V",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$55 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7AA",
+    "Desc": "CHILD UNDER 8 YEARS & UNDER 58 INCHES WITHOUT CARSEAT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7AA",
+    "Desc": "CHILD 8-12 OR OVER 57 INCHES WITHOUT SEAT BELT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$30 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS OPERATION/EQUIPMENT VIOL",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, OVERCROWDED",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS SAFETY, FAIL TEACH",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS SAFETY, FAIL TEACH, 2ND OFF.",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS SAFETY, FAIL TEACH, 3RD OFF.",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS INSPECTION, FAIL PERFORM POST-TRIP",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, ALCOHOL CONSUMED ON",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, BOARD/DISCHARGE IMPROPERLY",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, DOORS OPEN WHILE MOVING",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, DRIVER WITHOUT SEATBELT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, FLASHERS LIGHTS MISUSED OR UNUSED",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, FAIL TO FILL OUT PRE TRIP REPORT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, FAIL TO HAVE FIRE EXTINGUISHER",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, FAIL TO HAVE FIRST AID KIT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, FAIL TO HAVE FLARES",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7B",
+    "Desc": "SCHOOL BUS, FAIL TO HAVE CHOCK BLOCKS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7CC",
+    "Desc": "SPECIAL NEEDS STUDENTS VEH FL ID OWNER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7E",
+    "Desc": "RED/BLUE LIGHT VIOLATION, MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$305 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7L",
+    "Desc": "SCHOOL BUS OPERATE WITH STANDEES",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$505 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7P",
+    "Desc": "HEIGHT, MODIFY MV",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7Q",
+    "Desc": "TIRE TREAD DEPTH VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "7R",
+    "Desc": "VEHICLE ID NUMBER NOT DISPLAYED",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "7U",
+    "Desc": "MOTORCYCLE, NOISY",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "$80 ",
+    "3rd Of.": "$155 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "8",
+    "Desc": "JUNIOR OPERATOR WITH PASSENGER UNDER 18",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8A12",
+    "Desc": "PUPILS, TRANSPORT WITHOUT LICENSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8B",
+    "Desc": "LEARNERS PERMIT VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8B",
+    "Desc": "OPERATE M/V IN VIOLATION OF LEARNERS PERMIT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8B",
+    "Desc": "UNLAWFULLY CARRY PASSENGER M/C",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8G",
+    "Desc": "RMV ID CARD REPLACEMENT VIOL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8G",
+    "Desc": "RMV ID CARD REPLACEMENT VIOL, 2ND OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8G",
+    "Desc": "RMV ID CARD REPLACEMENT VIOL, 3RD OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8H",
+    "Desc": "RMV ID CARD FRAUD",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8H",
+    "Desc": "RMV ID CARD FRAUD, 2ND OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8H",
+    "Desc": "RMV ID CARD FRAUD, 3RD OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8J",
+    "Desc": "RMV ID CARD ADDRESS CHANGE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8J",
+    "Desc": "RMV ID CARD ADDRESS CHANGE, 2ND OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8J",
+    "Desc": "RMV ID CARD ADDRESS CHANGE, 3RD OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8M",
+    "Desc": "MOBILE PHONE, OPERATOR UNDER 18 USE *",
+    "FelonyMisdomenor": "C",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "8M/1",
+    "Desc": "USE OF MOBILE ELECTRONIC DEVICE BY JUNIOR OPERATOR, 1ST OFF",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "$255 ",
+    "3rd Of.": "$505 "
+  },
+  {
+    "Chapter": "90",
+    "Section": "9",
+    "Desc": "NUMBER PLATE MISSING",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$105 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "9",
+    "Desc": "UNREGISTERED MOTOR VEHICLE ON PUBLIC WAY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "9",
+    "Desc": "OPERATE UNREGISTERED TRAILER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "9A",
+    "Desc": "SAFETY GLASS VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "9C",
+    "Desc": "TRUCK TIRE RIMS, IMPROP SERVICING OF",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$40 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90",
+    "Section": "9D",
+    "Desc": "WINDOW OBSTRUCTED/NONTRANSPARENT",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$255 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "12",
+    "Desc": "MBOAT, REFUSE STOP/ID FOR OFFICER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "13A",
+    "Desc": "MBOAT IMPROP NEAR SCUBA DIVER FLAG",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "13A",
+    "Desc": "SCUBA DIVER FLAG, +100 FT FROM",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "13A",
+    "Desc": "SCUBA DIVER FLAG, FAIL DISPLAY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "2",
+    "Desc": "MBOAT ID NO., OPERATE WITHOUT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "21",
+    "Desc": "SNOW/REC VEH UNREGISTERED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "22",
+    "Desc": "SNOW/REC VEH ADDRESS CHANGE, FAIL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "22",
+    "Desc": "SNOW/REC VEH REGISTRATION, FL PRODUCE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "22/A",
+    "Desc": "SNOW/REC VEH - ADDRESS CHANGE, FAIL",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "22/B",
+    "Desc": "SNOW/REC VEH - UNREGISTERED",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "24",
+    "Desc": "SNOW/REC VEH FUMES, EXCESS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "24",
+    "Desc": "SNOW/REC VEH NOISE VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "24",
+    "Desc": "SNOW VEH, SELL NOISY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "24/A",
+    "Desc": "SNOW/REC VEH - EQUIPMENT VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "24/B",
+    "Desc": "SNOW/REC VEH - FUMES, EXCESS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "24/C",
+    "Desc": "SNOW/REC VEH - NOISE VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH - FIREARM, OP WHILE CARRY",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$1,000 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH - GROWING STOCK, DAMAGE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH - HELMET VIOLATION",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH--OUI--DRUGS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH--OUI--LIQUOR OR .08%",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH--UNSAFE OPERATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH - WILDLIFE, HARASS",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH - ALLOW UNDER 18 OPERATE IMPROP",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH--UNDER 16½ CROSS HIGHWAY",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26",
+    "Desc": "SNOW/REC VEH - PRIVATE PROPERTY, ON",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26/K",
+    "Desc": "SNOW/REC VEH - PUBLIC PROPERTY, ON",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26/L",
+    "Desc": "SNOW/REC VEH - DAMAGE PROPERTY, ON",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$500 ",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26/M",
+    "Desc": "SNOW/REC VEH - REFUSE STOP FOR POLICE",
+    "FelonyMisdomenor": "V",
+    "FIELD5": "",
+    "1ST Of.": "$250 ",
+    "2nd Of.": "$1,000 ",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26/P",
+    "Desc": "ALL TERRAIN/REC UTILITY VEH, UNDERAGE OP",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26/Q",
+    "Desc": "ALL TERRAIN/REC UTILITY VEH, UNDERAGE OP, SUBSQ.OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26A",
+    "Desc": "SNOW/REC VEH--OUI BY +21-DRUGS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26A",
+    "Desc": "SNOW/REC VEH-OUI BY -21--DRUGS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26A",
+    "Desc": "SNOW/REC VEH - OUI BY +21 - LIQUOR OR .08%",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26A",
+    "Desc": "SNOW/REC VEH - OUI BY -21 - LIQUOR OR .02%",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26A/D",
+    "Desc": "SNOW/REC VEH - OUI BY -21 - LIQUOR OR .02%",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26B",
+    "Desc": "Operating a Snow or Recreational Vehicle Recklessly or Negligently",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26B",
+    "Desc": "SNOW/REC VEH - LEAVE SCENE OF PERSONAL INJURY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26B",
+    "Desc": "SNOW/REC VEH - LEAVE SCENE OF PROPERTY DAMAGE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26B",
+    "Desc": "SNOW/REC VEH - NEGLIGENT/RECKLESS OP",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26B",
+    "Desc": "SNOW/REC VEH - NEGLIGENT/RECKLESS OP & DEATH",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26B",
+    "Desc": "SNOW/REC VEH - NEGLIGENT/RECKLESS OP & SERIOUS INJURY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26B/A",
+    "Desc": "SNOW/REC VEH - LEAVE SCENE OF PERSONAL INJURY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "26B/B",
+    "Desc": "SNOW/REC VEH - LEAVE SCENE OF PROPERTY DAMAGE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "27",
+    "Desc": "SNOW/REC VEH ACCIDENT, FAIL REPORT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "3",
+    "Desc": "MBOAT ID NO. CERTIF, FAIL POSSESS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "3",
+    "Desc": "MBOAT ID NO. CERTIFICATE, NO",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "3",
+    "Desc": "MBOAT ID NO., DISPLAY WRONG",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "3",
+    "Desc": "MBOAT ID NO., FAIL DISPLAY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "3",
+    "Desc": "MBOAT ADDRESS CHANGE VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "3",
+    "Desc": "MBOAT TRANSFER, FAIL REPORT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "32",
+    "Desc": "SNOW/REC VEH STOP FOR POLICE, FAIL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "33",
+    "Desc": "SNOWMOBILE OPERATOR REFUSE ID/LEAVE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT TITLE, ACQUIRE WITHOUT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT TITLE, ACQUIRE WITHOUT, SUBSQ.OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT TITLE, FAIL APPLY FOR",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT TITLE, FAIL APPLY FOR, SUBSQ. OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT TITLE, FALSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT TITLE, FALSE, SUBSQ.OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT TITLE, TRANSFER WITHOUT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT TITLE, TRANSFER WITHOUT, SUBSQ.OFF.",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT WITHOUT TITLE, POSSESS/SELL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "36",
+    "Desc": "MBOAT WITHOUT TITLE, POSSESS/SELL, SUBSQ",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "38",
+    "Desc": "BOAT, REFUSE STOP/ID FOR OFFICER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "4",
+    "Desc": "MBOAT CERTIFIC, FAIL REPORT LOST",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "4A",
+    "Desc": "MBOAT ID NO. CERTIFICATE, FORGED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "4B",
+    "Desc": "MBOAT ID NO., ATT SELL WITH OBLITERATED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "4B",
+    "Desc": "MBOAT ID NO., SELL WITH OBLITERATED",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "4B",
+    "Desc": "MBOAT MANUFACTURER ID NO., REMOVE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "5",
+    "Desc": "MBOAT EQUIPMENT VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "5A",
+    "Desc": "BOAT LIFE SAVING DEVICE, NO",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "5B",
+    "Desc": "MBOAT FUEL PUMP WITHOUT AUTO SHUT-OFF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "5C",
+    "Desc": "SEWAGE, DISCHARGE MARINE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "6",
+    "Desc": "MBOAT MUFFLER VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "7",
+    "Desc": "MBOAT EQUIPMENT VIOL BY LESSOR",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI-DRUGS",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI-DRUGS, 2ND OFFENSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI-DRUGS, 3RD OFFENSE c90B §8(a)",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI-DRUGS, 4TH OFFENSE c90B §8(a)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI-DRUGS, 5TH OFFENSE c90B §8(a)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI--LIQUOR OR .08%",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI--LIQUOR OR .08%, 2ND OFFENSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI--LIQUOR OR .08%, 3RD OFFENSE",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI--LIQUOR OR .08%, 4TH OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT OUI--LIQUOR OR .08%, 5TH OFFENSE",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT, NEGLIGENT OPERATION OF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT, LEAVE SCENE OF PROPERTY DAMAGE BY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "MBOAT SKIER OBSERVER/LADDER, NO",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT, UNSAFE OPERATION OF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "WATER SKIS/SURFBOARD AT NIGHT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT, USE WITHOUT AUTHORITY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT, USE WITHOUT AUTHORITY, 2ND OFF.",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8",
+    "Desc": "BOAT, USE WITHOUT AUTHORITY, 3RD OFF.",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8/F",
+    "Desc": "WATER SKIS/SURFBOARD, NEGLIGENT USE OF",
+    "FelonyMisdomenor": "",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8A",
+    "Desc": "BOAT OUI-DRUGS & SERIOUS INJURY c90B §8A(2)",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8A",
+    "Desc": "BOAT OUI-DRUGS & SERIOUS INJURY & NEGLIGENT c90B §8A(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8A",
+    "Desc": "BOAT OUI-DRUGS & SERIOUS INJURY & RECKLESS c90B §8A(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8A",
+    "Desc": "BOAT OUI-LIQUOR OR .08% & SERIOUS INJURY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8A",
+    "Desc": "BOAT OUI--LIQOUR OR .08% & SERIOUS INJURY & NEGLIGENT",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8A",
+    "Desc": "BOAT OUI--LIQUOR OR .08$ & SERIOUS INJURY & RECKLESS",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8B",
+    "Desc": "BOAT HOMICIDE BY NEGLIGENT OP",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8B",
+    "Desc": "BOAT HOMICIDE BY RECKLESS OP",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8B",
+    "Desc": "BOAT HOMICIDE OUI-DRUGS c90B §8B(2)",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8B",
+    "Desc": "BOAT HOMICIDE OUI-DRUGS & NEGLIGENT c90B §8B(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8B",
+    "Desc": "BOAT HOMICIDE OUI-DRUGS & RECKLESS c90B §8B(1)",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8B",
+    "Desc": "BOAT HOMICIDE OUI-LIQOUR OR .08%",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8B",
+    "Desc": "BOAT HOMICIDE OUI--LILQUOR OR .08% & NEGLIGENT",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "8B",
+    "Desc": "BOAT HOMICIDE OUI--LIQUOR OR .08% & RECKLESS",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "9",
+    "Desc": "MBOAT ACCIDENT, FAIL REPORT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "9A",
+    "Desc": "JET SKI AT NIGHT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "9A",
+    "Desc": "JET SKI FLOTATION DEVICE, NO",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "9A",
+    "Desc": "JET SKI ON WATERS UNDER 75 ACRES",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "9A",
+    "Desc": "JET SKI OPERATION BY PERSON -16",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90B",
+    "Section": "9A",
+    "Desc": "JET SKI WITHIN 150 FT OF SWIMMER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90C",
+    "Section": "10",
+    "Desc": "CITATION, ATTEMPT TO DISPOSE OF UNLAW",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90C",
+    "Section": "10",
+    "Desc": "CITATION, ATTEMPT TO FALSIFY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90C",
+    "Section": "10",
+    "Desc": "CITATION, DISPOSE OF UNLAWFULLY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90C",
+    "Section": "10",
+    "Desc": "CITATION, FALSIFY",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "14",
+    "Desc": "TITLE, FAIL APPLY FOR DUPLICATE MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "15",
+    "Desc": "TITLE, FAIL DELIVER UPON MV TRANSFER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "16",
+    "Desc": "MOTOR VEH DEALER RECORDKEEPING VIOL",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "17",
+    "Desc": "TITLE, FAIL SURRENDER MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "20",
+    "Desc": "SALVAGE TITLE VIOLATION, MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "20C",
+    "Desc": "SALVAGE TITLE VIOLATION, MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "20D",
+    "Desc": "TITLE FOR RESTORED MV, FAIL APPLY FOR",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "20E",
+    "Desc": "TITLE FOR JUNKED MV, FAIL SURRENDER",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "24",
+    "Desc": "LIEN/TITLE, FAIL RELEASE MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "25",
+    "Desc": "LIENHOLDER FAIL DISCLOSE INFO, MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "27",
+    "Desc": "TITLE, FAIL SURRENDER SUSPENDED MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "32",
+    "Desc": "TITLE, ALLOW UNAUTH POSSESSION/USE OF MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "32",
+    "Desc": "TITLE, FALSE MV",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "32",
+    "Desc": "TITLE, FALSE STATEMENT IN APPLIC FOR MV",
+    "FelonyMisdomenor": "F",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "33",
+    "Desc": "STOLEN MV, FAIL REPORT RECOVERY OF",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "4",
+    "Desc": "TITLE, FAIL APPLY FOR MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90D",
+    "Section": "6",
+    "Desc": "CERTIFICATE OF ORIGIN, FAIL DELIVER MV",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90F",
+    "Section": "4",
+    "Desc": "OUT-OF-SVCE ORDER VIOL, EMPLOYER PERMIT",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  },
+  {
+    "Chapter": "90F",
+    "Section": "9",
+    "Desc": "OUT-OF-SVCE ORDER VIOLATION",
+    "FelonyMisdomenor": "M",
+    "FIELD5": "",
+    "1ST Of.": "",
+    "2nd Of.": "",
+    "3rd Of.": ""
+  }
+ ]
