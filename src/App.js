@@ -24,9 +24,9 @@ export default class App extends React.Component {
       return <div style={{ marginVertical: 16 }}>
         <h3># {i + 1}</h3>
         <h4>{r.Chapter}:{r.Section} {r.Desc}</h4>
-        <p>1st Off: {r["1ST Of."]}</p>
-        <p>2nd Off: {r["2ND Of."]}</p>
-        <p>3rd Off: {r["3RD Of."]}</p>
+        <p>1st Off: {r["1st Of. Fine"]}</p>
+        <p>2nd Off: {r["2nd Of. Fine"]}</p>
+        <p>3rd Off: {r["3rd Of. Fine"]}</p>
         <p>Percent Match: {Math.round(res.score * 100 * 100) / 100}%</p>
       </div>
     })
