@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f8634f52e4a52702391a4360f3cc1ea",
+    "revision": "f4c330be68bd2574cc55e5921b075d09",
     "url": "/bluefin-police-app-demo/index.html"
   },
   {
-    "revision": "89e89b57e637cb90b960",
+    "revision": "69b6f0ed2953404a3bb2",
     "url": "/bluefin-police-app-demo/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bluefin-police-app-demo/static/js/2.9811adde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89e89b57e637cb90b960",
-    "url": "/bluefin-police-app-demo/static/js/main.24692a39.chunk.js"
+    "revision": "69b6f0ed2953404a3bb2",
+    "url": "/bluefin-police-app-demo/static/js/main.1987c919.chunk.js"
   },
   {
     "revision": "995dacd27a44ab1c9c1d",
